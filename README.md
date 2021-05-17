@@ -4,8 +4,9 @@
 
 |                          微信公众号                          |                   CSDN博客                    |
 | :----------------------------------------------------------: | :-------------------------------------------: |
-| [点此扫码关注](https://github.com/mrxuxg/mrxuxg/blob/master/Wechat_SubscriptionAccount_QRCode.png?raw=true) | [点我直达](https://blog.csdn.net/qq_29186859) |
+| ![](https://github.com/mrxuxg/mrxuxg/blob/master/Wechat_SubscriptionAccount_QRCode_gaitubao_99x99.png?raw=true) | [点我直达](https://blog.csdn.net/qq_29186859) |
 
 ## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrxuxg&theme=cobalt&hide=prs,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxuxg&hide=QMake&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
