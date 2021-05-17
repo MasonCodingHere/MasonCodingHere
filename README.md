@@ -4,7 +4,7 @@
 
 |                          微信公众号                          |                   CSDN博客                    |
 | :----------------------------------------------------------: | :-------------------------------------------: |
-| ![](https://github.com/mrxuxg/mrxuxg/blob/master/Wechat_SubscriptionAccount_QRCode_gaitubao_99x99.png?raw=true) | [点我直达](https://blog.csdn.net/qq_29186859) |
+| ![](https://github.com/mrxuxg/mrxuxg/blob/master/Wechat_SubscriptionAccount_QRCode_gaitubao_99x99.png) | [点我直达](https://blog.csdn.net/qq_29186859) |
 
 ## GitHub Stats
 
