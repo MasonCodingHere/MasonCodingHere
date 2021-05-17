@@ -2,9 +2,9 @@
 
 机械专业硕士在读，努力向**Linux C/C++后端开发**转型，运营个人公众号：「极客熊猫」
 
-|                          微信公众号                          |                   CSDN博客                    |                         SegmentFault                         |                 Stackoverflow                 |
-| :----------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------: |
-| ![](https://github.com/mrxuxg/mrxuxg/blob/master/Wechat_SubscriptionAccount_QRCode_gaitubao_99x99.png?raw=true) | [点我直达](https://blog.csdn.net/qq_29186859) | [点我直达](https://stackoverflow.com/users/15452108/geekpanda) | [点我直达](https://segmentfault.com/u/mrxuxg) |
+|                          微信公众号                          |                   CSDN博客                    |
+| :----------------------------------------------------------: | :-------------------------------------------: |
+| ![](https://github.com/mrxuxg/mrxuxg/blob/master/Wechat_SubscriptionAccount_QRCode_gaitubao_99x99.png?raw=true) | [点我直达](https://blog.csdn.net/qq_29186859) |
 
 ## GitHub Stats
 
