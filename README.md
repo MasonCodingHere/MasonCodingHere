@@ -4,7 +4,7 @@
 
 |                          微信公众号                          |                   CSDN博客                    |
 | :----------------------------------------------------------: | :-------------------------------------------: |
-| ![](https://img-blog.csdnimg.cn/20210518161633811.png#pic_center) | [点我直达](https://blog.csdn.net/qq_29186859) |
+| ![](https://img-blog.csdnimg.cn/20210518161633811.png) | [点我直达](https://blog.csdn.net/qq_29186859) |
 
 ## GitHub Stats
 
