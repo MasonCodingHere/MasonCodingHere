@@ -7,4 +7,4 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&include_all_commits=true&count_private=true&show_icons=true&theme=aura&hide=prs,issues,contribs&line_height=37" alt="Mason's GitHub Stats" style="width: 420px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=html&layout=compact&theme=aura&card_width=420" alt="Top Languages" style="width:420px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&count_private=true&show_icons=true&theme=aura&hide=prs,issues,contribs&line_height=37&include_all_commits=true" alt="Mason's GitHub Stats" style="width: 420px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=html&layout=compact&theme=aura&card_width=420" alt="Top Languages" style="width:420px;" />
