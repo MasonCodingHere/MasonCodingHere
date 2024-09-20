@@ -1,9 +1,9 @@
 ### Hi there, I'm Mason 👋
 
-💥 C/C++
-🔥 Linux
-🌙 Shell
-🌟 Python
+> 💥 C/C++
+> 🔥 Linux
+> 🌙 Shell
+> 🌟 Python
 
 ### GitHub Stats
 
