@@ -10,10 +10,10 @@
 <table style="width:100%">
   <tr>
     <td style="width:50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&show_icons=true&theme=dark" alt="Mason's GitHub Stats" style="width:100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&show_icons=true&theme=ambient_gradient&hide=prs,issues,contribs" alt="Mason's GitHub Stats" style="width:100%;" />
     </td>
     <td style="width:50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&layout=compact&card_width=495&theme=dark" alt="Top Languages" style="width:100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=QMake,HTML&layout=compact&theme=ambient_gradient&card_width=495" alt="Top Languages" style="width:100%;" />
     </td>
   </tr>
 </table>
