@@ -22,7 +22,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&show_icons=true&theme=ambient_gradient&hide=prs,issues,contribs" alt="Mason's GitHub Stats" style="width: 450px;" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=QMake,HTML&layout=compact&theme=ambient_gradient&card_width=450" alt="Top Languages" style="width:450;" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=QMake,HTML&theme=ambient_gradient&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
