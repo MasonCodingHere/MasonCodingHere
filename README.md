@@ -1,4 +1,4 @@
-### Hi there, I'm Mason 👋
+### Hi there, I'm [Mason](https://masoncodinghere.github.io/) 👋
 
 > 💥 C/C++
 > 🔥 Linux
