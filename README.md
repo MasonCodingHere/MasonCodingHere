@@ -1,8 +1,9 @@
 ### Hi there, I'm Mason 👋
 
-Yesterday is history, tomorrow is a mystery,
-
-but today is a gift. That's why it is called the present
+💥 C/C++
+🔥 Linux
+🌙 Shell
+🌟 Python
 
 ### GitHub Stats
 
