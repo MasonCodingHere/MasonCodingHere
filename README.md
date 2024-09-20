@@ -8,4 +8,4 @@
 ### GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasonCodingHere&theme=ambient_gradient&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=QMake,HTML&theme=ambient_gradient&layout=compact&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=QMake,HTML&theme=ambient_gradient&layout=compact&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
