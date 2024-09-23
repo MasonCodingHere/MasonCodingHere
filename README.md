@@ -1,11 +1,5 @@
 [![Mason's Blog](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/test.jpg)](https://MasonCodingHere.github.io)
 
-<div align="center">
-  <h2>
-    👋 Hi there! I'm <a href="https://masoncodinghere.github.io/">Mason</a>
-  </h2>
-</div>
-
 ### 💻 Tech Stacks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
