@@ -1,4 +1,8 @@
-## 👋 Hi there! I'm [Mason](https://masoncodinghere.github.io/)
+<div align="center">
+  <h2>
+    👋 Hi there! I'm <a href="https://masoncodinghere.github.io/">Mason</a>
+  </h2>
+</div>
 
 ## 💻 Tech Stacks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
