@@ -11,8 +11,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasonCodingHere&theme=aura&hide_border=false" style="width:420px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasonCodingHere&radius=12&height=470&theme=nightowl&days=30" style="width:420px;">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MasonCodingHere/MasonCodingHere/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MasonCodingHere/MasonCodingHere/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="width:850px;">
 </picture>
 
