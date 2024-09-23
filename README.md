@@ -38,3 +38,9 @@
 ## ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"><img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" align="right" style="width:40%;">
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="display: inline-block;">
+  <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" style="width: auto; height: 100px; display: inline-block;">
+</div>
+
