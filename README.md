@@ -43,7 +43,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="height: 200px; margin-right: 10px;">
-  <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" style="height: 200px;">
+  <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" style="height: 150px;">
 </div>
 
 
