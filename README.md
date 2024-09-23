@@ -36,4 +36,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasonCodingHere&theme=aura&hide_border=false" style="width:420px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasonCodingHere&radius=12&height=470&theme=nightowl&days=30" style="width:420px;">
 
 ## ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"> <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" align="right" style="width:40%;">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"><img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" align="right" style="width:40%;">
