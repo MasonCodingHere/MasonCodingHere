@@ -1,3 +1,5 @@
+![](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Hithereiammason.svg)
+
 <div align="center">
   <h2>
     👋 Hi there! I'm <a href="https://masoncodinghere.github.io/">Mason</a>
