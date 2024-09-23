@@ -1,4 +1,4 @@
-![](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Hithereiammason.svg)
+![](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/hithereiammason.svg)
 
 <div align="center">
   <h2>
