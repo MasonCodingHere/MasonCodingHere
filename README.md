@@ -39,9 +39,5 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="left"><img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" align="right" style="width:40%;">
 
-<div style="display: flex; align-items: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="flex-shrink: 0; margin-right: 10px;">
-  <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" style="flex-grow: 1; height: auto;">
-</div>
 
 
