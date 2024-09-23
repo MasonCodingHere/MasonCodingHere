@@ -6,7 +6,7 @@
 > 🌟 Python
 
 <h3>
-  GitHub Stats
+  📈 GitHub Stats
   <img src="https://komarev.com/ghpvc/?username=MasonCodingHere&amp;color=brightgreen&amp;style=flat" alt="" align="right"/>
 </h3>
 
