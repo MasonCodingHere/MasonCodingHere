@@ -15,4 +15,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasonCodingHere&theme=nightowl&days=30">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="width:840px;">
