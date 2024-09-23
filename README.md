@@ -21,8 +21,6 @@
 ![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GPG](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNUPrivacyGuard&logoColor=0093DD)
 <h2>
   📈 GitHub Stats
   <img src="https://visitcount.itsvg.in/api?id=MasonCodingHere&label=Profile%20Views&color=12&icon=5&pretty=false" alt="" align="right"/>
