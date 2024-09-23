@@ -1,4 +1,4 @@
-[![](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/test.jpg)](MasonCodingHere.github.io)
+[![Mason's Blog](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/test.jpg)](https://MasonCodingHere.github.io)
 
 <div align="center">
   <h2>
