@@ -4,7 +4,7 @@
   </h2>
 </div>
 
-## 💻 Tech Stacks
+### 💻 Tech Stacks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -30,16 +30,16 @@
 ![GPG](https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNUPrivacyGuard&logoColor=0093DD)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<h2>
+<h3>
   📈 GitHub Stats
   <img src="https://visitcount.itsvg.in/api?id=MasonCodingHere&label=Profile%20Views&color=12&icon=5&pretty=false" alt="" align="right"/>
-</h2>
+</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&count_private=true&show_icons=true&theme=aura&hide=prs,issues,contribs&line_height=37" alt="Mason's GitHub Stats" style="width: 420px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=html&layout=compact&theme=aura&card_width=420" alt="Top Languages" style="width:420px;">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasonCodingHere&theme=aura&hide_border=false" style="width:420px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasonCodingHere&radius=12&height=470&theme=nightowl&days=30" style="width:420px;">
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 
 <div style="display: flex; align-items: center;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="height: 150px; margin-right: 10px;">
