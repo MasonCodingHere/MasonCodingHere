@@ -29,7 +29,7 @@
   <img src="https://visitcount.itsvg.in/api?id=MasonCodingHere&label=Profile%20Views&color=12&icon=5&pretty=false" alt="" align="right"/>
 </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&count_private=true&show_icons=true&theme=aura&hide=prs,issues,contribs&line_height=37" alt="Mason's GitHub Stats" style="width: 420px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=html&layout=compact&theme=aura&card_width=420" alt="Top Languages" style="width:420px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=MasonCodingHere&count_private=true&show_icons=true&theme=aura&hide=prs,issues,contribs&line_height=37" alt="Mason's GitHub Stats" style="width: 420px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasonCodingHere&hide=html&layout=compact&theme=aura&card_width=420" alt="Top Languages" style="width:420px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasonCodingHere&theme=aura&hide_border=false" style="width:420px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasonCodingHere&radius=12&height=470&theme=nightowl&days=30" style="width:420px;">
 
 ## ✍️ Random Dev Quote
