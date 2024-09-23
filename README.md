@@ -41,7 +41,7 @@
 
 ## ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" style="width:40%;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> <img src="https://github.com/MasonCodingHere/MasonCodingHere/blob/main/Monkey_Kid_Coding.gif" style="width:10%;">
 
 
 
