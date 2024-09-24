@@ -1,4 +1,4 @@
-[![Mason's Blog](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/newheeloworld-cropped.svg)](https://MasonCodingHere.github.io)
+[![Mason's Blog](https://github.com/MasonCodingHere/MasonCodingHere/blob/main/helloworld.svg)](https://MasonCodingHere.github.io)
 
 ### 💻 Tech Stacks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
