@@ -38,5 +38,7 @@
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=false&theme=light" style="width:850px;">
 
+> 悟以往之不谏，知来者之可追。
+
 
 
